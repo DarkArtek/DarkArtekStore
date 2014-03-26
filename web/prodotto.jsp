@@ -20,7 +20,7 @@
                 <label for="prezzo">Prezzo</label>
                 <input type="text" id="prezzo"/>
                 <label for="scheda">Scheda</label>
-                <a href="" id="cellulare">Vai alla scheda</a>
+                <a href="" id="scheda">Vai alla scheda</a>
                 <label for="quantita">Quantit&agrave;</label>
                 <input type="text" id="quantita"/>
             </fieldset>
